@@ -2,7 +2,6 @@
 	if(!isset($_POST['btnProcessCall']) && !isset($_POST['btnDispatch']))
 		header("Location: logcall.php");
 ?>
-
 <?php
 
 ?>
